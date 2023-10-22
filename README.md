@@ -1,2 +1,2 @@
 # AzureBLOB
-Contains sample project on Azure BLOB
+Contains sample project on Azure Storage
